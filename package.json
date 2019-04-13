@@ -1,0 +1,35 @@
+{
+  "name": "strapi-provider-upload-mega",
+  "version": "3.0.0-alpha.25.2",
+  "description": "Mega provider for strapi upload",
+  "strapi": {
+    "isProvider": true
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voxivoid/strapi-provider-upload-mega.git"
+  },
+  "keywords": [
+    "mega",
+    "provider",
+    "upload",
+    "strapi"
+  ],
+  "author": {
+    "email": "voxivoid@gmail.com",
+    "name": "André Domingues",
+    "url": "https://github.com/voxivoid"
+  },
+  "bugs": {
+    "url": "https://github.com/voxivoid/strapi-provider-upload-mega/issues"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/voxivoid/strapi-provider-upload-mega/issues"
+  },
+  "homepage": "https://github.com/voxivoid/strapi-provider-upload-mega#readme"
+}

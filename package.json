@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-mega",
-  "version": "3.0.0-alpha.25.2",
+  "version": "3.0.0-alpha.25.2.1",
   "description": "Mega provider for strapi upload",
   "strapi": {
     "isProvider": true
